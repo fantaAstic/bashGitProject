@@ -1,0 +1,3 @@
+echo "Hello Github!" > test.txt
+git add test.txt
+git commit -m "test file"
